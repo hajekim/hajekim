@@ -13,7 +13,9 @@ Focus on "Deriving Business Value using Data and Cloud."
 
 
 ### Tech Stack
-#### Tools
+#### Language & Tools
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=ffffff)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=ffffff)
 ![macOS](https://img.shields.io/badge/macOS-000000.svg?&style=for-the-badge&logo=macOS&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=ffffff)
@@ -33,11 +35,9 @@ Focus on "Deriving Business Value using Data and Cloud."
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?&style=for-the-badge&logo=Apache%20Spark&logoColor=ffffff)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?&style=for-the-badge&logo=Apache%20Airflow&logoColor=ffffff)
 ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F.svg?&style=for-the-badge&logo=Apache%20Flink&logoColor=ffffff)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=ffffff)
 ![scikit-learn](https://img.shields.io/badge/scikit%20learn-F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=ffffff)
 
 #### My hobbies
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=ffffff)
 
 <!--
