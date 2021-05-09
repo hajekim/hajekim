@@ -15,6 +15,7 @@
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-C0352F.svg?&style=for-the-badge&logo=Oracle&logoColor=white&label=&color=C0352F&labelColor=000000)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-C0352F.svg?&style=for-the-badge&logo=Oracle&logoColor=white&label=&color=000000&labelColor=C0352F)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-C0352F.svg?&style=for-the-badge&logo=Oracle%20Cloud&logoColor=white)
+<img alt="Oracle Cloud" src ="https://img.shields.io/badge/Oracle%20Cloud-C0352F.svg?&style=for-the-badge&logo=Oracle%20Cloud&logoColor=white"/>
 
 C0352F
 
