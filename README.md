@@ -12,7 +12,7 @@
 ![SWIFT](https://img.shields.io/static/v1?style=for-the-badge&logo=swift&message=SWIFT&label=&color=FA7343&labelColor=000000) 
 
 ### Stack
-<img alt="AWS" src ="https://img.shields.io/badge/AWS-원하는색상코드.svg?&style=for-the-badge&logo=aws&logoColor=white"/>
+<img alt="AWS" src ="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=aws&logoColor=white"/>
 <img alt="Google Cloud" src ="https://img.shields.io/badge/Google Cloud-4285F4.svg?&style=for-the-badge&logo=GoogleCloud&logoColor=white"/>
 
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
