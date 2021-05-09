@@ -11,7 +11,6 @@
 
 ### Stack
 ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-4285F4.svg?&style=for-the-badge&logo=Google%20Cloud&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?&style=for-the-badge&logo=Google%20Cloud&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-C0352F.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 
