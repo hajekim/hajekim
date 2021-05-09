@@ -2,11 +2,12 @@
 
 🧑🏻‍💻 I'm Haje Kim, a passionate self-improvement cloud architect from South Korea 🇰🇷
 
-- 🔭 I’m currently working on Oracle Corporation
+- 🔭 I’m currently working on Oracle Corporation as Cloud Architect
 - 🌱 I’m currently learning Data Engineering & Machine Learning
 - 📫 How to reach me: hajekim1@gmail.com
 
-
+8 years of a lot of softwares engineering work experience in various technical skillsets such as middleware, modernize application, data warehousing, machine learning and data analytics with on-premise and cloud computing platforms - Oracle Cloud, AWS, Google Cloud and Azure-.
+Also have master's degree in appied data science for studied the machine learning and data wrangling, because I think data will be more important in future.
 
 
 ### Tech Stack
