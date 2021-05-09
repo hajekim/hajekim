@@ -10,7 +10,7 @@
 
 
 ![SWIFT](https://img.shields.io/static/v1?style=for-the-badge&logo=swift&message=SWIFT&label=&color=FA7343&labelColor=000000) 
-![AWS](https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white&label=&color=FA7343&labelColor=000000)
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white&label=&color=232F3E&labelColor=000000)
 ### Stack
 <img alt="AWS" src ="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
 
