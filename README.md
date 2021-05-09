@@ -10,7 +10,7 @@
 
 
 ### Stack
-![Amazon Web Services](https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white&label=&color=232F3E&labelColor=FF9900)
+![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white&label=&color=232F3E&labelColor=FF9900)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?&style=for-the-badge&logo=Google%20Cloud&logoColor=white&label=&color=4285F4&labelColor=000000)
 
 <img alt="AWS" src ="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
