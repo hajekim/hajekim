@@ -12,7 +12,7 @@ Also have master's degree in appied data science for studied the machine learnin
 Focus on "Deriving Business Value using Data and Cloud."
 
 
-### Tech Stack
+### Tech Skillsets
 #### Language & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=ffffff)
