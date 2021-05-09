@@ -12,8 +12,7 @@
 ### Stack
 ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-FF9900.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900&label=&color=232F3E&labelColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?&style=for-the-badge&logo=Google%20Cloud&logoColor=white&label=&color=4285F4&labelColor=000000)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-C0352F.svg?&style=for-the-badge&logo=Oracle&logoColor=white&label=&color=C0352F&labelColor=000000)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-C0352F.svg?&style=for-the-badge&logo=Oracle&logoColor=white&label=&color=000000&labelColor=C0352F)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?&style=for-the-badge&logo=Google%20Cloud&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-C0352F.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 
 C0352F
