@@ -1,4 +1,4 @@
-### Hi there, I am Haje 👋
+### Hi there 👋
 
 🧑🏻‍💻 I'm Haje Kim, a passionate self-improvement cloud architect from South Korea 🇰🇷.
 
