@@ -14,7 +14,7 @@
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6.svg?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=ffffff)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?&style=for-the-badge&logo=Google%20Cloud&logoColor=ffffff)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-C0352F.svg?&style=for-the-badge&logo=Oracle&logoColor=ffffff)
-![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?&style=for-the-badge&logo=Oracle&logoColor=ffffff)
+![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?&style=for-the-badge&logo=Vultr&logoColor=ffffff)
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=ffffff)
