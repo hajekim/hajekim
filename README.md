@@ -12,7 +12,7 @@
 ![SWIFT](https://img.shields.io/static/v1?style=for-the-badge&logo=swift&message=SWIFT&label=&color=FA7343&labelColor=000000) 
 
 ### Stack
-<img alt="Google Cloud" src ="https://simpleicons.org/icons/googlecloud.svg?&style=for-the-badge&logo=로고명&logoColor=#4285F4"/>
+<img alt="Google Cloud" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Google&logoColor=#4285F4"/>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 ![VS Code](https://img.shields.io/static/v1?style=for-the-badge&logo=visual-studio-code&message=VS%20Code&label=&color=007ACC&labelColor=000000)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=git&message=Git&label=&color=F05032&labelColor=000000)
