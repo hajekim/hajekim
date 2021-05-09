@@ -21,7 +21,7 @@
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121.svg?&style=for-the-badge&logo=GitLab&logoColor=ffffff)  
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=ffffff)
-![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=ffffff)
+![scikit-learn](https://img.shields.io/badge/scikit%20learn-F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=ffffff)
 
 <!--
 **hajekim/hajekim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
