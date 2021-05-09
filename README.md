@@ -9,7 +9,7 @@
 
 
 
-## Stack
+### Stack
 ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6.svg?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?&style=for-the-badge&logo=Google%20Cloud&logoColor=white)
@@ -25,7 +25,7 @@
 
 ### 🏄🏻‍♀️ Get in touch with me
 
-📧 Email : thecho2cho2@gmail.com
+📧 Email : hajekim1@gmail.com
 
 
 
