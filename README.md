@@ -4,11 +4,7 @@
 
 - 🔭 I’m currently working on Oracle Corporation
 - 🌱 I’m currently learning Data Engineering & Machine Learning
-- 💬 Ask me about ![here 📧](<hajekim1@gmail.com>)
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 📫 How to reach me: hajekim1@gmail.com
 
 
 
