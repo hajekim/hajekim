@@ -41,6 +41,11 @@ Focus on "Deriving Business Value using Data and Cloud."
 <!--
 **hajekim/hajekim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+icon site
+- https://simpleicons.org/
+- https://shields.io/
+- https://2dowon.netlify.app/etc/github-badge/
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
