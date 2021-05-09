@@ -15,12 +15,11 @@
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-C0352F.svg?&style=for-the-badge&logo=Oracle&logoColor=white&label=&color=C0352F&labelColor=000000)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-C0352F.svg?&style=for-the-badge&logo=Oracle&logoColor=white&label=&color=000000&labelColor=C0352F)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-C0352F.svg?&style=for-the-badge&logo=Oracle%20Cloud&logoColor=white)
-<img alt="Oracle Cloud" src ="https://img.shields.io/badge/Oracle%20Cloud-C0352F.svg?&style=for-the-badge&logo=Oracle%20Cloud&logoColor=white"/>
 
 C0352F
 
 <img alt="AWS" src ="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
-<img alt="Google Cloud" src ="https://img.shields.io/badge/Google Cloud-4285F4.svg?&style=for-the-badge&logo=Google%20Cloud&logoColor=white"/>
+<img alt="Google Cloud" src ="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?&style=for-the-badge&logo=Google%20Cloud&logoColor=white"/>
 
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 
