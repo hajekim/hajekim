@@ -14,7 +14,7 @@ Focus on "Deriving Business Value using Data and Cloud."
 
 ### Tech Stack
 #### Tools
-![macOS](https://img.shields.io/badge/macOS-000000.svg?&style=for-the-badge&logo=macOS%20Code&logoColor=ffffff)
+![macOS](https://img.shields.io/badge/macOS-000000.svg?&style=for-the-badge&logo=macOS&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=ffffff)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121.svg?&style=for-the-badge&logo=GitLab&logoColor=ffffff)
@@ -29,7 +29,8 @@ Focus on "Deriving Business Value using Data and Cloud."
 
 #### Studying
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-badge&logo=Python&logoColor=ffffff)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-badge&logo=Python&logoColor=ffffff)
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?&style=for-the-badge&logo=Apache%20Tomcat&logoColor=ffffff)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?&style=for-the-badge&logo=Apache%20Spark&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=ffffff)
 ![scikit-learn](https://img.shields.io/badge/scikit%20learn-F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=ffffff)
 
