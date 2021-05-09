@@ -36,8 +36,6 @@ Focus on "Deriving Business Value using Data and Cloud."
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?&style=for-the-badge&logo=Apache%20Airflow&logoColor=ffffff)
 ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F.svg?&style=for-the-badge&logo=Apache%20Flink&logoColor=ffffff)
 ![scikit-learn](https://img.shields.io/badge/scikit%20learn-F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=ffffff)
-
-#### My hobbies
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=ffffff)
 
 <!--
