@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-🧑🏻‍💻 I'm Haje Kim, a passionate self-improvement cloud architect from South Korea 🇰🇷.
+🧑🏻‍💻 I'm Haje Kim, a passionate self-improvement cloud architect from South Korea 🇰🇷
+
+- 🔭 I’m currently working on Oracle Corporation
+- 🌱 I’m currently learning Data Engineering & Machine Learning
+- 💬 Ask me about ![here 📧](hajekim1@gmail.com)
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
 
 
 
