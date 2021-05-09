@@ -29,7 +29,7 @@ Focus on "Deriving Business Value using Data and Cloud."
 
 #### Studying
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-badge&logo=Python&logoColor=ffffff)
-![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?&style=for-the-badge&logo=Apache%20Tomcat&logoColor=ffffff)
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?&style=for-the-badge&logo=Apache%20Tomcat&logoColor=000000)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?&style=for-the-badge&logo=Apache%20Spark&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=ffffff)
 ![scikit-learn](https://img.shields.io/badge/scikit%20learn-F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=ffffff)
