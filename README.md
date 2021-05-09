@@ -1,5 +1,7 @@
 ### Hi there, I am Haje 👋
 
+Hi, I'm Haje Kim, a passionate self-improvement cloud architect from Korea.🧑🏻‍💻
+
 
 <p align="center">
   <samp>
