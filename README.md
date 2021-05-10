@@ -18,6 +18,7 @@ Focus on "Deriving Business Value using Data and Cloud."
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=ffffff)
 ![macOS](https://img.shields.io/badge/macOS-000000.svg?&style=for-the-badge&logo=macOS&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=ffffff)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=ffffff)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121.svg?&style=for-the-badge&logo=GitLab&logoColor=ffffff)
 
