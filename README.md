@@ -2,7 +2,7 @@
 
 🧑🏻‍💻 I'm Haje Kim, a passionate self-improvement software engineer from South Korea 🇰🇷
 
-- 🔭 I’m currently working on Oracle Corporation as Cloud Architect
+- 🔭 I’m currently working on GS SHOP as Data & Software Engineer
 - 🌱 I’m currently learning Data Engineering & Machine Learning with Cloud Computing
 - 📫 How to contact me: hajekim1@gmail.com & https://linkedin.com/in/hajekim/
 
