@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning Data Engineering & Machine Learning with Cloud Computing
 - 📫 How to contact me: hajekim1@gmail.com & https://linkedin.com/in/hajekim/
 
-8 years of a lot of softwares engineering work experience in various technical skillsets such as middleware, modernize application, container, data warehousing, machine learning and data analytics with on-premise and cloud computing platforms - Oracle Cloud, AWS, Google Cloud and Azure-.
-Also have master's degree in appied data science for studied the machine learning and data wrangling, because I think data will be more important in future.
+9 years of a lot of softwares engineering work experience in various technical skillsets such as middleware, modernize application, container, data warehousing, machine learning and data analytics on on-premise and cloud computing.
+Also have master's degree in applied data science for studied the machine learning and data wrangling, because I think data will be more important in future.
 
 Focus on "Deriving Business Value using Data and Cloud."
 
