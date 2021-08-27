@@ -3,7 +3,7 @@
 🧑🏻‍💻 I'm Haje Kim, a passionate self-improvement software engineer from South Korea 🇰🇷
 
 - 🔭 I’m currently working on GS SHOP as Data & Software Engineer
-- 🌱 I’m currently learning Data Engineering & Machine Learning with Cloud Computing
+- 🌱 I’m currently working Data Engineering & Data Science with Cloud Computing and MLOps
 - 📫 How to contact me: hajekim1@gmail.com & https://linkedin.com/in/hajekim/
 
 9 years of a lot of softwares engineering work experience in various technical skillsets such as middleware, modernize application, container, data warehousing, machine learning and data analytics on on-premise and cloud computing.
