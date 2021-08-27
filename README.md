@@ -21,7 +21,6 @@ Focus on "Deriving Business Value using Data and Cloud."
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=ffffff)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121.svg?&style=for-the-badge&logo=GitLab&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=ffffff)
 
 
 #### Cloud Computing
@@ -32,6 +31,7 @@ Focus on "Deriving Business Value using Data and Cloud."
 ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?&style=for-the-badge&logo=Vultr&logoColor=ffffff)
 
 #### Studying
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=ffffff)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-badge&logo=Python&logoColor=ffffff)
 ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?&style=for-the-badge&logo=Apache%20Tomcat&logoColor=000000)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?&style=for-the-badge&logo=Apache%20Spark&logoColor=ffffff)
