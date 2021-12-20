@@ -6,7 +6,7 @@
 - 🌱 I’m currently working Data Engineering & Data Science with Cloud Computing and MLOps
 - 📫 How to contact me: hajekim1@gmail.com & https://linkedin.com/in/hajekim/
 
-Data focused software engineer with 9+ years of experience with various software engineering and architectural experience in various technologies such as Oracle Fusion Middleware, cloud-native services and open sources. Skilled at establish and execute MLOps, data analytics platform and data warehouse using cloud computing service. Also earned a master's degree in applied data science for studied the data analytics and machine learning in 2020. An inventive person who enjoys to study new skills and being curious about it.
+Data focused software engineer with 9+ years of experience in software engineering with cloud computing service and open-source software and Oracle Fusion Middleware. Skilled at establish and execute MLOps, data analytics platform and data warehouse. Also interested in migrating and design to modernize application from legacy one. In addition, earned a master's degree in applied data science for studied the data analytics and machine learning in 2020. An inventive person who enjoys studying new skills and being curious about it.
 
 
 ### Tech Skillsets
