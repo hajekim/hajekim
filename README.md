@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on GS SHOP as Data & Software Engineer
 - 🌱 I’m currently working Data Engineering & Data Science with Cloud Computing and MLOps
-- [My history](https://www.notion.so/Software-Engineer-Haje-Kim-0e41eaec0e984dd59f56d3b63204d0e1)
+- [My history](https://haje.notion.site/Software-Engineer-Haje-Kim-0e41eaec0e984dd59f56d3b63204d0e1)
 - 📫 How to contact me: hajekim1@gmail.com & https://linkedin.com/in/hajekim/
 
 Data focused software engineer with 9+ years of experience in software engineering with cloud computing service and open-source software and Oracle Fusion Middleware. Skilled at establish and execute MLOps, data analytics platform and data warehouse. Also interested in migrating and design to modernize application from legacy one. In addition, earned a master's degree in applied data science for studied the data analytics and machine learning in 2020. An inventive person who enjoys studying new skills and being curious about it.
